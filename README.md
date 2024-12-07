@@ -3,7 +3,7 @@ This is the result of a weekend sloppily hacking together components I had layin
 
 It's based on a [Seeed XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) with a cheap external gyro, 4 mechanical key switches and a battery upcycled from a disposable vape I found on the ground. 
 
-![internal view of keyboard](../readme-assets/internal_view.jpg)
+![internal view of keyboard](readme-assets/internal_view.jpg)
 
 ### Materials Used
 * 1 [Seeed XIAO nRF52840](https://amzn.to/49lbOW1)
